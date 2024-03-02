@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Reda</h1>
 <h3 align="center">Engineering the Future: Big Data and Cloud by Day, ML and Cyber by Heart. 💡💻</h3>
 
 - 📫 How to reach me **redaelmarrakchy@gmail.com**
