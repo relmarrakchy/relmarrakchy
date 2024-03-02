@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **redaelmarrakchy@gmail.com**
 
-- ⚡ Fun fact **Everybody surprised by my effort**
+- ⚡ Fun fact **Everybody is surprised by my effort**
 <p align="left">
 </p>
 
