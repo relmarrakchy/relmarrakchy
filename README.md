@@ -2,7 +2,7 @@
 <h3 align="center">Engineering the Future: Big Data and Cloud by Day, ML and Cyber by Heart. 💡💻</h3>
 
 - 📫 How to reach me **redaelmarrakchy@gmail.com**
-
+- 🔭 I’m currently working on **Cyber threat detection app**
 - ⚡ Fun fact **Everybody is surprised by my effort**
 <p align="left">
 </p>
