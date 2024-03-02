@@ -3,6 +3,7 @@
 
 - 📫 How to reach me **redaelmarrakchy@gmail.com**
 - 🔭 I’m currently working on **Cyber threat detection app**
+- 🌱 I’m currently learning --------
 - ⚡ Fun fact **Everybody is surprised by my effort**
 <p align="left">
 </p>
