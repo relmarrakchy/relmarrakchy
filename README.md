@@ -1,4 +1,4 @@
-<img src="./REDA.png" alt="logo"/>
+<img src="./REDA.png" alt="logo" style="border-raduis: 5px"/>
 
 <h3 align="center">Engineering the Future: Big Data and Cloud by Day, ML and Cyber by Heart. 💡💻</h3>
 
